@@ -1,0 +1,4 @@
+name = "Strassen"
+uuid = "f3ede8ba-c918-43b0-8d1d-9ac5f46ff424"
+authors = ["jonathan-sudo <johnlegrand972@gmail.com>"]
+version = "0.1.0"
